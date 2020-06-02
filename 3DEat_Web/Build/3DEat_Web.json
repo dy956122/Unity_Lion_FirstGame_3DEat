@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "3DEat",
+"productVersion": "0.1",
+"dataUrl": "3DEat_Web.data.unityweb",
+"wasmCodeUrl": "3DEat_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "3DEat_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "3DEat_Web.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
